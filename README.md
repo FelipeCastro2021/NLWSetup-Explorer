@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src="./assets/" width="100%">
+  <img alt="projeto Habits" src="assets/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
